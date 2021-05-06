@@ -39,16 +39,9 @@ nav a {
 }
 
 img {
-    width: 65%;
     display: block;
     margin: auto;
     z-index: -1;
-}
-
-@media only screen and (max-width: 450px) {
-    img {
-        width: 100%;
-    }
 }
 
 footer {
